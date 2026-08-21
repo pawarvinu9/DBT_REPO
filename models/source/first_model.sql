@@ -1,0 +1,1 @@
+select * from my_database.source_schema.customers
